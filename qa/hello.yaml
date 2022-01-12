@@ -15,5 +15,5 @@ spec:
         app: hello
     spec:
       containers:
-        -name: hello
-         image: realkeny/kennydockerhub:hellov1.0
+      - name: hello
+        image: realkeny/kennydockerhub:hellov1.0
